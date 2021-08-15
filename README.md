@@ -1,1 +1,1 @@
-
+This is a simple but effective circuit for providing clean isolated 9 volt outputs from a WPDLXFMR-2 Transformer, for use in an effects pedal power supply. I designed this in 2020 and created a 9 output isolated power supply for my guitar pedalboard. I've included the Altium project files, as well as schematic pdf and gerbers. The only thing I would change is to maybe add onboard resettable fuses to each board and also use a more spaced-out input and output footprint for the AC in and DC out. 
